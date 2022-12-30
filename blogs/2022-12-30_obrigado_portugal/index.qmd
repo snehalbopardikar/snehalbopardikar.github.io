@@ -1,0 +1,26 @@
+---
+title: "Obrigado Portugal" 
+author:
+  - name: Snehal Bopardikar 
+    url: https://snehalbopardikar.github.io
+date: 2022-12-30
+categories: [Travel]
+title-block-banner: assets/obrigado_portugal.jpeg
+citation: 
+  url: https://snehalbopardikar.github.io/posts/2022-12-30_obrigado_portugal
+format:
+  html:
+    toc: true
+draft: false
+title-block-banner-color: "#FAF7F5"
+image: obrigado_portugal.jpeg
+---
+##  An Excursion To Wonderful Country Portugal!!!!
+![Obrigado Portugal](obrigado_portugal.jpeg)
+
+
+I learn more from meeting new people and conversing with them, than from books. Sure, books give me wisdom from all over the world, but talking to a person from a different origin, or culture enlightens new things and gives me more experience. I have recently been to Portugal and had an excursion to different cities of Portugal. The main aim was to meet locals, stay with them, and talk for hours with them because this is what visiting a country means to me. I reckon I kept the best European country in the end, Portugal.
+It has given me memories, experiences, knowledge and friends like family. 
+Obrigado Portugal!!
+
+Saúde!!!

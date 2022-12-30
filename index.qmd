@@ -1,7 +1,22 @@
 ---
-title: "snehalbopardikar.github.io"
+title: "Snehal Bopardiakar"
+subtitle: Engineer | Consultant | Investor | Mentor
+image: ./assets/snehal.jpeg
+page-layout: full
+about: 
+  template: trestles 
+  image-shape: round
+  image-width: 15em
+  links:
+    - icon: linkedin
+      href: https://www.linkedin.com/in/snehalbopardikar/
+    - icon: github
+      href: https://github.com/snehalbopardikar
+    - icon: envelope 
+      href: snehalbopardikar@gmail.com
+
 ---
+## Hi There!
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I grew up in a small village in India and made my way to different cities and countries for my education and work. I have been learning, and exploring each and every day throughout my journey from India, Germany, Austria, Belgium etc and would be happy to mentor students, working people and industries in my professional expertise.
